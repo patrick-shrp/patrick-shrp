@@ -13,6 +13,6 @@ I build **guardrailed autonomous systems that keep running** — so humans get t
 
 <br />
 
-[Cortex](https://cortex.auvy.ai) · [ImTakt](https://imtakt.dev) · [OpenPulse](https://openpulse.org) · [AUVY](https://www.auvy.ai) · [ImStudium](https://github.com/patrick-shrp/imstudium)
+[Cortex](https://cortex.auvy.ai) · [ImTakt](https://imtakt.dev) · [OpenPulse](https://openpulse.org) · [AUVY](https://www.auvy.ai) · [ImStudium](https://www.patrickschroeppel.com/imstudium)
 
 </div>
