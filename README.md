@@ -8,11 +8,12 @@ I build **guardrailed autonomous systems that keep running** — so humans get t
 
 [Cortex](https://cortex.auvy.ai) · [ImTakt](https://imtakt.dev) · [OpenPulse](https://openpulse.space)
 
-[patrickschroeppel.com](https://www.patrickschroeppel.com) · [LinkedIn](https://www.linkedin.com/in/patrick-schroeppel)
-
 <br />
 
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=patrick-shrp&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A09&title_color=FF5A1F&icon_color=FF5A1F&text_color=F2F0EB&ring_color=FF5A1F&hide=stars,issues&custom_title=Patrick" alt="Build pulse" />
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrick-shrp&layout=compact&theme=dark&hide_border=true&bg_color=0A0A09&title_color=FF5A1F&text_color=F2F0EB&langs_count=5" alt="Languages" />
+[![Website](https://img.shields.io/badge/patrickschroeppel.com-FF5A1F?style=for-the-badge&labelColor=0A0A09&color=FF5A1F)](https://www.patrickschroeppel.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A09?style=for-the-badge&logo=linkedin&logoColor=FF5A1F&labelColor=0A0A09&color=FF5A1F)](https://www.linkedin.com/in/patrick-schroeppel)
+[![Cortex](https://img.shields.io/badge/Cortex-cortex.auvy.ai-0A0A09?style=for-the-badge&labelColor=0A0A09&color=FF5A1F)](https://cortex.auvy.ai)
+[![ImTakt](https://img.shields.io/badge/ImTakt-imtakt.dev-0A0A09?style=for-the-badge&labelColor=0A0A09&color=FF5A1F)](https://imtakt.dev)
+[![OpenPulse](https://img.shields.io/badge/OpenPulse-openpulse.space-0A0A09?style=for-the-badge&labelColor=0A0A09&color=FF5A1F)](https://openpulse.space)
 
 </div>
