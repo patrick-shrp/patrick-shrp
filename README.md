@@ -4,7 +4,7 @@
 
 **Founder · GenAI engineer · Augsburg**
 
-I build **guardrailed autonomous systems that keep running** — so humans get their time back.
+I build **guardrailed autonomous systems that keep running**, so humans get their time back.
 
 [Cortex](https://cortex.auvy.ai) · [ImTakt](https://imtakt.dev) · [OpenPulse](https://openpulse.space)
 
