@@ -195,10 +195,9 @@ def hero(t, now):
         b.append(f'<rect x="{mx:.1f}" y="{y0 - 6}" width="1.5" height="13" fill="{t["faint"]}"/>')
         b.append(path(text("mono", MONTHS[m], mx + 6, y0 + 26, 11, 1.5), t["ink"] if mx <= tx else t["faint"]))
     b.append(f'<rect class="today" x="{tx - 6:.1f}" y="{y0 - 5}" width="12" height="12" fill="{RED}"/>')
-    css = (".l1,.l2{animation:rise 1.1s cubic-bezier(.2,.7,.1,1) both}.l2{animation-delay:.12s}"
-           "@keyframes rise{from{opacity:0;transform:translateY(26px)}}"
-           ".today{animation:blink 2.4s steps(1) infinite}@keyframes blink{50%{opacity:.25}}"
-           ".lived{transform-box:fill-box;animation:run 1.8s cubic-bezier(.2,.7,.1,1) .3s both}@keyframes run{from{transform:scaleX(0)}}")
+    # only the blink moves: an embedded image may never get past its first frame,
+    # so nothing may start hidden
+    css = ".today{animation:blink 2.4s steps(1) infinite}@keyframes blink{50%{opacity:.25}}"
     return svg(W, H, "".join(b), t, "Patrick Schröppel. Work is slower than it has to be. I find where the time goes, and build what wins it back.", css)
 
 
